@@ -1,6 +1,6 @@
 #file paths. Imported Sklearn through pip in terminal
 import pandas as pd
-import utils
+import Utils as utils
 from sklearn import tree, model_selection
 
 df = pd.read_csv("train.csv")
