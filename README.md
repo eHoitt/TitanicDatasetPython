@@ -5,10 +5,10 @@ tutorial on YouTube. I added additional display features, and graphs to compare 
 The prediction tree provided a great visual display that helped me understand how the code was working and if I wrote my algorithm correctly.  
 
 ## Dependencies installed with pip
-matplotlib
-pandas
-SKlearn
-graphviz
+matplotlib,
+pandas,
+SKlearn,
+graphviz,
 
 ## Demographics
 ```
