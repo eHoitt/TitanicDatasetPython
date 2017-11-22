@@ -36,4 +36,4 @@ print generalized_decision_tree_.score(features, target)
 
 #building a picture of the how the algorithm makes decision_tree
 #imported graphviz through pip in terminal
-tree.export_graphviz(generalized_decision_tree_, feature_names=feature_names, out_file="tree.dot")
+tree.export_graphviz(generalized_decision_tree_, feature_names=feature_names, out_file="Tree.dot")
