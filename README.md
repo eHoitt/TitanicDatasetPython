@@ -10,27 +10,28 @@ pandas,
 SKlearn,
 graphviz
 
-## Demographics
+## Run the code:
+### Demographics
 ```
 python Demographics.py
 ```
 
-## General Survival Rates
+### General Survival Rates
 ```
 python General_Survival_Rates.py
 ```
 
-## Survival Variations
+### Survival Variations
 ```
 python Survival_Variations.py
 ```
 
-## Survival By Gender
+### Survival By Gender
 ```
 python Survival_Genders.py
 ```
 
-## Gender Comparison
+### Gender Comparison
 ```
 python Gender_Comparisons.py
 ```
