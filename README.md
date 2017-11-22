@@ -8,7 +8,7 @@ The prediction tree provided a great visual display that helped me understand ho
 matplotlib,
 pandas,
 SKlearn,
-graphviz,
+graphviz
 
 ## Demographics
 ```
