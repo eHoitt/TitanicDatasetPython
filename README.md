@@ -10,7 +10,6 @@ python Demographics.py
 ```
 
 ## General Survival Rates
-From a terminal, run -
 ```
 python General_Survival_Rates.py
 ```
